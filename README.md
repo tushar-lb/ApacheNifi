@@ -1,4 +1,4 @@
-# kubernetes-nifi-cluster
+# Apache NiFi Cluster on Kubernetes
 
 A nifi cluster running in kubernetes
 
